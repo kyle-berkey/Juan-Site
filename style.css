@@ -10,6 +10,7 @@ body {
 }
 
 #navbar ul {
+	margin: 0;
 	padding-left: none;
 	display: flex;
 	justify-content: space-around;
@@ -19,14 +20,16 @@ body {
 
 #navbar ul li {
 	list-style-type: none;
+	padding: 35px 0 35px 0;
 }
 
+#navbar ul img {
+	padding-top: 5px;
+}
 
-p {
-  padding: 10px;
-  border: 50px solid #002DF5;
-  margin: 0;
-	font-family: "Comic Sans MS";
+/* HOME PAGE */
+#home {
+	background-color: #828282;
 }
 
 /* PABLOS "GOOGLE" AD */
