@@ -1,0 +1,44 @@
+body {
+	margin: 0;
+}
+
+/* NAVBAR */
+#navbar {
+	width: 100%;
+	background-color: #468829;
+	font-family: "Comic Sans MS"
+}
+
+#navbar ul {
+	padding-left: none;
+	display: flex;
+	justify-content: space-around;
+	flex-direction: row;
+	font-size: 36px;
+}
+
+#navbar ul li {
+	list-style-type: none;
+}
+
+
+p {
+  padding: 10px;
+  border: 50px solid #002DF5;
+  margin: 0;
+	font-family: "Comic Sans MS";
+}
+
+/* PABLOS "GOOGLE" AD */
+#ad {
+  width: 20%;
+}
+
+
+
+#homo {
+  padding: 10px;
+  border: 5px solid #09E087;
+  margin: 0;
+	font-family: "Comic Sans MS";
+}
