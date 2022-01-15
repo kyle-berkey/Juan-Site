@@ -32,6 +32,12 @@ body {
 	background-color: #828282;
 }
 
+#juanfire {
+	position: absolute;
+	bottom: 0;
+	right: 0;
+}
+
 /* PABLOS "GOOGLE" AD */
 #ad {
   width: 20%;
@@ -44,4 +50,20 @@ body {
   border: 5px solid #09E087;
   margin: 0;
 	font-family: "Comic Sans MS";
+}
+
+
+#Orde {
+  padding: 5px;
+  border: 10px solid #09E087;
+  margin: 0;
+	font-family: "Comic Sans MS";
+}
+
+#PabloWingate {
+  padding: 10px;
+  border: 25px solid #54F000;
+  margin: 2;
+  length: 
+	font-family: cursive;
 }
